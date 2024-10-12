@@ -17,6 +17,5 @@ My name is Tomás, I'm from Venezuela and I'm an DevOps/SysAdmin.
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://tomas.com)
 
 📫 How to reach me [tomas@saiyans.com.ve](mailto:tomas@saiyans.com.ve)
